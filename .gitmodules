@@ -10,3 +10,7 @@
 	path = template
 	url = git@github.com:juniorjrjl/algashop-template.git
 	branch = main
+[submodule "microservices/billing-scheduler"]
+	path = microservices/billing-scheduler
+	url = git@github.com:juniorjrjl/algashop-billing-scheduler.git
+	branch = main
